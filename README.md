@@ -12,9 +12,9 @@ An AI-powered blog platform designed to automatically generate, manage, and serv
 ## Tech Stack
 
 * Python
-* Django / FastAPI (update based on your project)
+* Django DRF
 * REST APIs
-* PostgreSQL / SQLite (update if needed)
+* SQLite 
 
 ## Purpose of the Project
 
